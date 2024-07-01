@@ -1,4 +1,4 @@
-name: flutter_awesome_select
+name: awesome_select_forked
 description: Easily convert your usual single/multiple select or dropdown into page, dialog, or bottom sheet with various choice input such as radio, checkbox, switch, chips, or custom widget.
 homepage: https://github.com/artflutter/flutter_awesome_select
 version: 6.5.0-beta

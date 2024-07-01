@@ -1,6 +1,6 @@
 import 'package:collection/collection.dart' show ListEquality;
 import 'package:flutter/material.dart';
-import 'package:flutter_awesome_select/flutter_awesome_select.dart';
+import 'package:awesome_select_forked/flutter_awesome_select.dart';
 import '../state/choices.dart';
 import '../state/filter.dart';
 import '../choices_resolver.dart';

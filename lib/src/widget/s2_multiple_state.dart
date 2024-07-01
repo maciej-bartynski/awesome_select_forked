@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_awesome_select/flutter_awesome_select.dart';
+import 'package:awesome_select_forked/flutter_awesome_select.dart';
 // import 'state/selected.dart';
 // import 'state/selection.dart';
 

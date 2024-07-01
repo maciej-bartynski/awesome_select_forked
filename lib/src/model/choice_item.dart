@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter_awesome_select/src/utils/accent.dart';
+import 'package:awesome_select_forked/src/utils/accent.dart';
 import 'choice_theme.dart';
 
 /// Validation callback

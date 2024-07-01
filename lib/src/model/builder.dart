@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_awesome_select/flutter_awesome_select.dart';
+import 'package:awesome_select_forked/flutter_awesome_select.dart';
 // import '../state/filter.dart';
 
 /// A common widget builder
